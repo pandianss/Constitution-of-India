@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parts/Part V - THE UNION/Chapter III - Legislative Powers of the President/Article 123 - Power of President to promulgate Ordinances during recess of Parliament.md",
+                "file": "Parts/Part V - THE UNION/Chapter I - The Executive/1 The President and Vice President/Article 53 - Executive Power of the Union.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parts/Part V - THE UNION/Chapter III - Legislative Powers of the President/Article 123 - Power of President to promulgate Ordinances during recess of Parliament.md",
+                "file": "Parts/Part V - THE UNION/Chapter I - The Executive/1 The President and Vice President/Article 53 - Executive Power of the Union.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Parts/Part V - THE UNION/Chapter III - Legislative Powers of the President/Article 123 - Power of President to promulgate Ordinances during recess of Parliament.md",
+                "file": "Parts/Part V - THE UNION/Chapter I - The Executive/1 The President and Vice President/Article 53 - Executive Power of the Union.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Parts/Part V - THE UNION/Chapter III - Legislative Powers of the President/Article 123 - Power of President to promulgate Ordinances during recess of Parliament.md"
+                "file": "Parts/Part V - THE UNION/Chapter I - The Executive/1 The President and Vice President/Article 53 - Executive Power of the Union.md"
               }
             }
           }
@@ -146,17 +146,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "331d30927dcb2790",
+  "active": "27d86feefb0770f8",
   "lastOpenFiles": [
-    "Parts/Part V - THE UNION/Chapter II - Parliament.md",
+    "Parts/Part V - THE UNION/Chapter I - The Executive/1 The President and Vice President/Article 52 - The President of India.md",
+    "Parts/Part V - THE UNION/Chapter I - The Executive/1 The President and Vice President/Article 53 - Executive Power of the Union.md",
     "Parts/Part V - THE UNION/Chapter III - Legislative Powers of the President/Article 123 - Power of President to promulgate Ordinances during recess of Parliament.md",
+    "Parts/Part V - THE UNION/Chapter I - The Executive/4 Conduct of Government Business",
+    "Parts/Part V - THE UNION/Chapter I - The Executive/3 The Attorney General of India",
+    "Parts/Part V - THE UNION/Chapter I - The Executive/2 Council of Ministers",
+    "Parts/Part V - THE UNION/Chapter I - The Executive/1 The President and Vice President",
+    "Parts/Part V - THE UNION/Chapter II - Parliament.md",
     "Parts/Part V - THE UNION/Chapter V - Comptroller and Auditor General of India",
     "Parts/Part V - THE UNION/Chapter III - Legislative Powers of the President",
     "Parts/Part V - THE UNION/Chapter IV - The Union Judiciary",
     "Parts/Part V - THE UNION/Chapter II - Parliament",
     "Parts/Part V - THE UNION/Chapter I - The executive.md",
     "Parts/Part V - THE UNION/Chapter I - The Executive",
-    "Parts/Part V - THE UNION",
-    "Parts"
+    "Parts/Part V - THE UNION"
   ]
 }

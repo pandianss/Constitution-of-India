@@ -5,3 +5,5 @@
 	(b) may be withdrawn at any time by the President.
 
 (3) If and so far as on Ordinance under this article makes any provision which Parliament would not under this Constitution be competent to eneact, it shall be void.
+
+(4) The Power conferred on the President by this article shall include the power to issue different Proclamations on different grounds, being war or external aggression or internal disturbance or imminent danger of war or external agression or internal disturbance, whether or not there is a Proclamation already issued by the President under clause(1) and such Proclamation is in operation 
